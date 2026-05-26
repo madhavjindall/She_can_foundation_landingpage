@@ -19,7 +19,7 @@ Navbar → Hero → About → Internship Info → Footer
 Clone it and open `index.html` in a browser. No installs, no setup.
 
 ```bash
-git clone https://github.com/your-username/she-can-foundation.git
+git clone https://github.com/madhavjindall/she-can-foundation.git
 ```
 
 ## Tech
