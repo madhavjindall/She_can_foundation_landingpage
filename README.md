@@ -16,10 +16,10 @@ Navbar → Hero → About → Internship Info → Footer
 
 ## How to run
 
-Clone it and open `index.html` in a browser. No installs, no setup.
+Just paste this link ur browser 
 
 ```bash
-git clone https://github.com/madhavjindall/she-can-foundation.git
+https://madhavjindall.github.io/She_can_foundation_landingpage/
 ```
 
 ## Tech
